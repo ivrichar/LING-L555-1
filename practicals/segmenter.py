@@ -31,8 +31,9 @@ A sentence with an ellipsis should be one sentence, I think.
 An exclamation mark at the beginning of a sentence should be treated like a
 part of the same sentence, but there can also be valid sentences that end in
 exclamation marks, so it's hard to say. Words offset by a single comma at the
-beginning of a sentence should be
+beginning of a sentence should be included in the sentence.
 
 Transcription of human speech might be difficult. Commas would also be hard, as
-they're used in lists as well as to offset clauses.
+they're used in lists as well as to offset clauses. Things like numbers might be
+difficult (as they use periods and commas for non-grammatical purposes)
 """
