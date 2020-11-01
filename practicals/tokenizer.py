@@ -26,7 +26,7 @@ for j in range(0, len(sentences)):
     for k in range(0, len(sentences[j])):
         count = k+1
         token = sentences[j][k]
-        print(f'{count} \t {token} \t _ \t _ \t _ \t _ \t _ \t _ \t _ \t _')
+        print(f'{count}\t{token}\t_\t_\t_\t_\t_\t_\t_\t_')
 
 
 """
