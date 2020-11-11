@@ -9,7 +9,6 @@ l l
 m m
 n n
 p p
-c s
 z s
 x ʃ
 t t
