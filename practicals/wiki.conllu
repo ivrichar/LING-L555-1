@@ -1,0 +1,52 @@
+23
+# sent_id = 1
+# text =
+Teōtl:
+Teōtl cē Cemānāhuac
+1	Teōtl	_	NOUN	_	_	_	_	_	IPA=teoːtl
+2	:	_	PUNCT	_	_	_	_	_	IPA=
+3	Teōtl	_	NOUN	_	_	_	_	_	IPA=teoːtl
+4	cē	_	ADV	_	_	_	_	_	IPA=keː
+5	Cemānāhuac	_	NOUN	_	_	_	_	_	IPA=kemaːnaːʔak
+# sent_id = 2
+# text =
+Calli:
+Calli ce calchihualoni ipan altepetl
+
+Azcatl:
+In āzcameh ("Formicidae"), cē cenyeliztli tlacacniuhyo yohyōlitzitzin, iuhquin in chīlpantin īhuān in pipiyōltin, tlatēctli īpan in netecpāncātlāliliztli in himenópteros
+
+
+1	Calli	_	NOUN	_	_	_	_	_	IPA=kalli
+2	:	_	PUNCT	_	_	_	_	_	IPA=
+3	Calli	_	NOUN	_	_	_	_	_	IPA=kalli
+4	ce	_	ADV	_	_	_	_	_	IPA=ke
+5	calchihualoni	_	NOUN	_	_	_	_	_	IPA=kalkʔiʔaloni
+6	ipan	_	ADP	_	_	_	_	_	IPA=ipan
+7	altepetl	_	NOUN	_	_	_	_	_	IPA=altepetl
+8	Azcatl	_	NOUN	_	_	_	_	_	IPA=askatl
+9	:	_	PUNCT	_	_	_	_	_	IPA=
+10	In	_	DET	_	_	_	_	_	IPA=in
+11	āzcameh	_	NOUN	_	_	_	_	_	IPA=aːskameʔ
+12	(	_	PUNCT	_	_	_	_	_	IPA=
+13	"Formicidae"	_	X	_	_	_	_	_	IPA=ormikidae
+14	)	_	PUNCT	_	_	_	_	_	IPA=
+15	,	_	PUNCT	_	_	_	_	_	IPA=
+16	cē	_	NUM	_	_	_	_	_	IPA=keː
+17	cenyeliztli	_	NOUN	_	_	_	_	_	IPA=kenjelistli
+18	tlacacniuhyo	_	NOUN	_	_	_	_	_	IPA=tlakakniʔjo
+19	yohyōlitzitzin	_	NOUN	_	_	_	_	_	IPA=joʔjoːlitsitsin
+20	,	_	PUNCT	_	_	_	_	_	IPA=
+21	iuhquin	_	PART	_	_	_	_	_	IPA=iʔkin
+22	in	_	DET	_	_	_	_	_	IPA=in
+23	chīlpantin	_	NOUN	_	_	_	_	_	IPA=kʔiːlpantin
+24	īhuān	_	CCONJ	_	_	_	_	_	IPA=iːʔaːn
+25	in	_	DET	_	_	_	_	_	IPA=in
+26	pipiyōltin	_	NOUN	_	_	_	_	_	IPA=pipijoːltin
+27	,	_	PUNCT	_	_	_	_	_	IPA=
+28	tlatēctli	_	NOUN	_	_	_	_	_	IPA=tlateːktli
+29	īpan	_	NOUN	_	_	_	_	_	IPA=iːpan
+30	in	_	DET	_	_	_	_	_	IPA=in
+31	netecpāncātlāliliztli	_	NOUN	_	_	_	_	_	IPA=netekpaːnkaːtlaːlilistli
+32	in	_	DET	_	_	_	_	_	IPA=in
+33	himenópteros	_	X	_	_	_	_	_	IPA=ʔimenptero
