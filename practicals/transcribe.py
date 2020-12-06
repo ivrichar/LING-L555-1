@@ -28,27 +28,27 @@ def to_ipa(s):
 text = sys.stdin.read()
 
 lines = text.split("\n") #split by line in input text
-print(len(lines))
 
 
-for j in range(0, len(lines)):
-    for line in lines:
+
+#for j in range(0, len(lines)):
+for line in lines:
 
         #if '\t' not in line:
         #    continue
-        row = line.split('\t')
-        if len(row) != 10:
-            print(row[0])
-            continue
-        transcribed = to_ipa(row[1])
-        if (transcribed is None): # if something was not transcribed (punctuation mark, etc)
-            row[9] = "IPA="
-        else: # if something was transcribed
-            row[9] = "IPA="+transcribed
-        count = row[0]
-        token = row[1]
-        transcription = row[9]
-        print(f'{count}\t{token}\t_\t_\t_\t_\t_\t_\t_\t{transcription}')
+    row = line.split('\t')
+    if len(row) != 10:
+        print(row[0])
+        continue
+    transcribed = to_ipa(row[1])
+    if (transcribed is None): # if something was not transcribed (punctuation mark, etc)
+        row[9] = "IPA="
+    else: # if something was transcribed
+        row[9] = "IPA="+transcribed
+    count = row[0]
+    token = row[1]
+    transcription = row[9]
+    print(f'{count}\t{token}\t_\t_\t_\t_\t_\t_\t_\t{transcription}')
 
 
 """
