@@ -91,8 +91,8 @@ def get_best_forms(sentence):
             if final_punct == "?":
                 fixed_word = (this_word[0], (this_word[1][0], ("qst")))
                 continue
-        if tag_in_list(this_word[1], "n"):#check following word for being a noun if this word is an adjective
-            if tag_in_list(all_words[j-1], "adj"):
+        if tag_in_list(this_word[j+1], "n"):#check following word for being a noun if this word is an adjective
+            if tag_in_list(all_words[j], "adj"):
                 fixed_word = (this_word[0], (this_word[1][0], ("adj")))
                 continue
         #check following word for transitive/intransitive verb stuff
